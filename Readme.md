@@ -1,9 +1,4 @@
----
-title: "Readme"
-author: "SP"
-date: "December 16, 2014"
-output: html_document
----
+##Readme
 
 Diamond Pricer! was created using Shiny, a web application framework for R developed and suported by RStudio.
 
